@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="document-mapper" />
+        <module name="blog-commons" />
+        <module name="document-web" />
+        <module name="document-api" />
+        <module name="document-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blog-domain" target="17" />
+      <module name="document-domain" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="blog-commons" options="-parameters" />
+      <module name="blog-domain" options="-parameters" />
+      <module name="document-api" options="-parameters" />
+      <module name="document-domain" options="-parameters" />
+      <module name="document-mapper" options="-parameters" />
+      <module name="document-service" options="-parameters" />
+      <module name="document-web" options="-parameters" />
+    </option>
+  </component>
+</project>
