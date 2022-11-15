@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34817c9d-30ff-4dcd-82d5-cd6daea4e958" name="变更" comment="" />
+    <list default="true" id="34817c9d-30ff-4dcd-82d5-cd6daea4e958" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-document/document-service/src/main/resources/application-back.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-document/document-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog-commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-mapper/target/classes/com/blog/document/mapper/DocumentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-mapper/target/classes/com/blog/document/mapper/DocumentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/DocumentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/DocumentServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/controller/DocumentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/controller/DocumentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/mapper/DocumentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/src/main/java/com/blog/document/mapper/DocumentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/DocumentServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/DocumentServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/controller/DocumentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/controller/DocumentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/mapper/DocumentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/mapper/DocumentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/service/UserInfoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-document/document-service/target/classes/com/blog/document/service/UserInfoImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -27,22 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "ca7753a007037ef8ca2cc7aedb884f21"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/xingqiankun/workspace/blog_workspace/blog-cloud/blog-document/document-service/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1f8a27500299fbed2783927b4b6fad78&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog-document/document-service/src/main/resources" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -102,10 +129,24 @@
       <workItem from="1667473514143" duration="3295000" />
       <workItem from="1667534616254" duration="5993000" />
       <workItem from="1667555521233" duration="4967000" />
+      <workItem from="1667787052460" duration="2229000" />
+      <workItem from="1668392309223" duration="421000" />
+      <workItem from="1668488947010" duration="4252000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
