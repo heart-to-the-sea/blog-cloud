@@ -1,0 +1,30 @@
+#server:
+#  port: 9081
+#spring:
+#  application:
+#    name: blog-document-service
+#  cloud:
+#    nacos:
+#      config:
+#        server-addr: http://localhost:4848
+#        file-extension: yaml
+#        enabled: true
+#        group: DEFAULT_GROUP
+#        username: nacos
+#        password: nacos
+#
+
+server:
+  port: 8001
+spring:
+  application:
+    name: blog-document-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:4848
+      config:
+        server-addr: 127.0.0.1:4848
+        file-extension: yaml
+        group: DEFAULT_GROUP
+        enabled: true
